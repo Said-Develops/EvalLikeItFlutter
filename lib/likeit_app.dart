@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
 import 'screens/photos_master.dart'; 
 
-void main() {
-  runApp(const LikeItApp());
-}
 
 class LikeItApp extends StatelessWidget {
   const LikeItApp({super.key});
